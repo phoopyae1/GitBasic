@@ -1,0 +1,11 @@
+body {
+    background-color: red;
+}
+
+header {
+    /* dev1 */
+    color: blue;
+    /* dev2 */
+    margin: 20px;
+    padding: 20px;
+}
